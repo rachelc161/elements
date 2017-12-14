@@ -1,3 +1,3 @@
 # elements
 
-[website] ( https://rachelc161.github.io/elements/index.html)
+[website](https://rachelc161.github.io/elements/index.html)
